@@ -31,13 +31,15 @@ This is a **real-time 2-player game** played on the **same keyboard**.
 - `A` – Move Left  
 - `D` – Move Right  
 - `W` – Shift Block Order  
-- `S` – Drop Block  
+- `S` – Drop Block
+- `Q` - Use Power Up Block 
 
 ### 👤 Player 2 (Right Side)
 - `←` – Move Left  
 - `→` – Move Right  
 - `↑` – Shift Block Order  
-- `↓` – Drop Block  
+- `↓` – Drop Block
+- `SPACE` - Use Power Up Block  
 
 ---
 
