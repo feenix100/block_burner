@@ -15,6 +15,16 @@ This is a **real-time 2-player game** played on the **same keyboard**.
 
 ---
 
+## 🛠 Requirements
+
+- **Java Development Kit (JDK) Temurin 21**
+  - Download from [Adoptium](https://adoptium.net/)
+- A Java-compatible IDE or build tool (e.g., IntelliJ IDEA, Eclipse, or Gradle)
+
+---
+
+---
+
 ## 🕹️ Controls
 
 ### 👤 Player 1 (Left Side)
