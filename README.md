@@ -15,6 +15,14 @@ This is a **real-time 2-player game** played on the **same keyboard**.
 
 ---
 
+## 🖼️ Screenshot
+
+![Block Burner Gameplay](screenshot.png)
+
+*Gameplay screenshot showing both players’ grids in action*
+
+---
+
 ## 🛠 Requirements
 
 - **Java Development Kit (JDK) Temurin 21**
