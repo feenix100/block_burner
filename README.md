@@ -1,6 +1,6 @@
 # 🔥 Block Burner
 
-**Block Burner** is a competitive falling-blocks game inspired by the now-defunct **Yahoo Towers**. This is a **beta version** with ongoing development and future plans to expand it into a 2–8 player head-to-head game. 
+**Block Burner** is a competitive falling-blocks game inspired by the game **Yahoo Towers**. This is a **beta version** with ongoing development and future plans to expand it into a 2–8 player head-to-head game. 
 I am going to rewrite this game using Rust. When I started this project, I thought I could use Java anywhere, even in the browser. I think it would be less complicated in the long run to use Rust from the ground up.
 
 ## 🎮 Game Overview
